@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m Atharva
 
-🎓 Master’s student in Computer Science at UC Irvine  
-🚀 Full-Stack Developer focused on building scalable, secure web applications  
-🎯 Interested in system design, and applying ML to real-world products
+ Master’s student in Computer Science at UC Irvine  
+ Full-Stack Developer focused on building scalable, secure web applications  
+ Interested in system design, and applying ML to real-world products
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React, Next.js
@@ -33,7 +33,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 🔹 **DataWhisk: Energy-Aware Smart Buildings (Faculty-Sponsored)**  
 ML-driven system integrating HVAC, occupancy, and sensor data to enable energy-efficient control strategies in smart buildings
@@ -46,7 +46,7 @@ Directed graph–based timing analyzer using topological sorting and dynamic pro
 
 ---
 
-## 🧠 What I Care About
+## What I Care About
 
 - Writing clean, maintainable code
 - Designing scalable systems
@@ -55,13 +55,13 @@ Directed graph–based timing analyzer using topological sorting and dynamic pro
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Backend depth and system design
 - Secure and scalable application architecture
 - Applying ML to practical business problems
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/atharva-deo  
 - Email: adeo2@uci.edu
